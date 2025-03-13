@@ -1,5 +1,5 @@
-## Oioi gi 🩷 
-você é uma diva
+## 🩷 
+
 
 # 💫 About Me:
 Studying systems development at Senai.<br>Learning about Git and Github.<br>
