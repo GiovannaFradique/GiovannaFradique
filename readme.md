@@ -86,6 +86,6 @@ Studying systems development at Senai.<br>Learning about Git and Github.<br>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ###
