@@ -1,5 +1,9 @@
 ## 🩷 
 
+<img align="right" src="![github-header-image](https://github.com/user-attachments/assets/fa00e517-3b3e-4fe2-980c-7c6531aad2d6)"  />
+
+
+
 # 💫 About Me:
 Studying systems development at Senai.<br>Learning about Git and Github.<br>
 
@@ -48,6 +52,9 @@ Studying systems development at Senai.<br>Learning about Git and Github.<br>
 ###
 
 <img align="right" height="150" src="https://github.com/user-attachments/assets/5f691bc5-b5d2-413d-9581-d9271319f0ce"  />
+
+
+
 
 ###
 
