@@ -47,6 +47,7 @@ Studying systems development at Senai.<br>Learning about Git and Github.<br>
 
 ###
 
+<img align="right" height="150" src="https://github.com/user-attachments/assets/5f691bc5-b5d2-413d-9581-d9271319f0ce"  />
 
 
 ![gatinho-gato](https://github.com/user-attachments/assets/5f691bc5-b5d2-413d-9581-d9271319f0ce)
