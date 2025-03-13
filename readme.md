@@ -47,8 +47,7 @@ Studying systems development at Senai.<br>Learning about Git and Github.<br>
 
 ###
 
-<img align="right" height="150" src="div class= # 💫 About Me:
-Studying systems development at Senai.<br>Learning about Git and Github.<br>
+
 
 
 
