@@ -13,7 +13,6 @@ Studying systems development at Senai.<br>Learning about Git and Github.<br>
 
 
 <a href="https://www.instagram.com/gifradique" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a> 
- <a href="https://www.behance.net/zanettiduduxxd" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"> </a>
  <a href="https://www.linkedin.com/in/giovanna-silva-fradique-263617352/" target="_blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"  /> <a 
 href="mailto:gsilvafradique@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
  <a href="https://www.discord.com/users/vanamoranguinho" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a>
