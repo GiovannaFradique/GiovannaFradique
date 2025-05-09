@@ -25,14 +25,8 @@ Studying systems development at Senai.<br>Learning about Git and Github.<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=GiovannaFradique&theme=dark&hide_border=false)<br/>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GiovannaFradique&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GiovannaFradique&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GiovannaFradique&icon=0&color=0)](https://visitcount.itsvg.in)
