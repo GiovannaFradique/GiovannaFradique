@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-Studying systems development at Senai.<br>Learning about Git and Github.<br>
+Currently working at Volkswagen.<br>Learning about systems development.<br>
 
 
 ## 🌐 Socials:
